@@ -1,0 +1,4 @@
+/* Keep minimal global styles if you want; tailwind takes care most */
+html, body, #root {
+  height: 100%;
+}
